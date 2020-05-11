@@ -15,7 +15,7 @@ public class Window_Maximize {
 		
 		driver.get("https://opensource-demo.orangehrmlive.com/index.php/dashboard");
 		
-		//driver.manage().window().maximize();
+		driver.manage().window().maximize();
 		//Using Dimension from Selenium
 		Dimension dm=new Dimension(800,500);
 		driver.manage().window().setSize(dm);
