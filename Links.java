@@ -26,16 +26,7 @@ List<WebElement> links =driver.findElements(By.xpath("//a//cite"));
 for(WebElement linksurl:links)
 {
 	//System.out.println(linksurl.getAttribute("href"));
-	System.out.println(linksurl.getText());
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	System.out.println(linksurl.getText());	
 	
 }
   }
