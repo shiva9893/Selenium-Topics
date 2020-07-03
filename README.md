@@ -1,3 +1,3 @@
 # Selenium
-My Sample projct
-Selenium Basics learning 
+
+Selenium Basics concepts learning 
